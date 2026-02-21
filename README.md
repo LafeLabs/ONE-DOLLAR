@@ -3,7 +3,7 @@
 
 ![](DOLLAR.jpg)
 ![](DOLLAR.png)
-
+![](DOLLARS.jpg)
 
  - [http://localhost/ONE-DOLLAR/](http://localhost/ONE-DOLLAR/)
  - [http://10.0.0.7/ONE-DOLLAR/](http://10.0.0.7/ONE-DOLLAR/)
